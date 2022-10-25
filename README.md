@@ -1,1 +1,1 @@
-This is a database for SQL exercises
+This is a repository for SQL exercises
